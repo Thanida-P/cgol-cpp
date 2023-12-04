@@ -1,5 +1,0 @@
-/home/dot/projects/cpp/uni/project/CGOL/build/config.tests/static_link_order/CMakeFiles/rebuild_cache.dir
-/home/dot/projects/cpp/uni/project/CGOL/build/config.tests/static_link_order/CMakeFiles/edit_cache.dir
-/home/dot/projects/cpp/uni/project/CGOL/build/config.tests/static_link_order/CMakeFiles/static_link_order_test.dir
-/home/dot/projects/cpp/uni/project/CGOL/build/config.tests/static_link_order/CMakeFiles/staticLib.dir
-/home/dot/projects/cpp/uni/project/CGOL/build/config.tests/static_link_order/CMakeFiles/objLib.dir
